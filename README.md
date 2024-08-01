@@ -1,2 +1,4 @@
 This repository contains neovim and tmux config files
-Adding a useless readme
+<<<<<<< HEAD
+
+>>>>>>> 0ab6432 (Commiting to feature 1)
